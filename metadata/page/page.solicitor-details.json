@@ -1,6 +1,6 @@
 {
   "_id": "page.solicitor-details",
   "_type": "page.form",
-  "heading": "Solicitor's details (if applicable)",
+  "heading": "Solicitor's details (optional)",
   "url": "solicitor-details"
 }
