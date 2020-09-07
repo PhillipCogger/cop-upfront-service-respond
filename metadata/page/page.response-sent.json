@@ -1,0 +1,6 @@
+{
+  "_id": "page.response-sent",
+  "_type": "page.confirmation",
+  "heading": "Thank you",
+  "url": "response-sent"
+}
