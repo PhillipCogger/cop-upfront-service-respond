@@ -1,0 +1,27 @@
+{
+  "_id": "page.your-response",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.your-response--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.your-response--radios.auto_name__3--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Agree",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.your-response--radios.auto_name__3--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Agree, but stay informed",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Your response",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "response"
+}
