@@ -10,5 +10,10 @@
       "name": "auto_name__1"
     }
   ],
+  "show": {
+    "identifier": "response",
+    "operator": "is",
+    "value": "object"
+  },
   "url": "give-details"
 }
