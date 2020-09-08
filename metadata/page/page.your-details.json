@@ -13,6 +13,18 @@
       "_type": "email",
       "label": "Email address",
       "name": "email_address"
+    },
+    {
+      "_id": "page.your-details--textarea.auto_name__2",
+      "_type": "textarea",
+      "label": "Postal address",
+      "name": "auto_name__2"
+    },
+    {
+      "_id": "page.your-details--text.auto_name__3",
+      "_type": "text",
+      "label": "Phone number",
+      "name": "auto_name__3"
     }
   ],
   "heading": "Your details",

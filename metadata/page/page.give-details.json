@@ -1,0 +1,14 @@
+{
+  "_id": "page.give-details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.give-details--textarea.auto_name__1",
+      "_type": "textarea",
+      "hint": "Explain the implication of objecting - what it means for me as a respondent - what the commitment and involvement by making this decision.\r\n\r\nwhat costs would be involved by objecting\r\n\r\nListed for a hearing (hearing costs) - one off fee\r\n\r\nIf no valid objection, then parties have to bear their own costs.\r\n\r\nMight have to incur costs even if objection lifted\r\n\r\nInclude information about why the applicant applying isn't the right person to manage p's property and affairs\r\n\r\nWhy are you disagreeing?\r\n\r\nwhy is this application not in the person's best interests?\r\n\r\nmight feel that P isn't lacking mental capacity\r\n\r\ncommitments\r\nreasons for objections\r\nwhat info is needed to help the court make a decision (key points)\r\nimplications\r\n\r\n- Use existing reference of objections and detail included\r\n\r\n- Should include information about why they object \r\n",
+      "label": "Reason for objection",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "give-details"
+}

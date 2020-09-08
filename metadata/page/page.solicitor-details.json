@@ -1,6 +1,38 @@
 {
   "_id": "page.solicitor-details",
   "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.solicitor-details--text.auto_name__4",
+      "_type": "text",
+      "label": "Full name",
+      "name": "auto_name__4"
+    },
+    {
+      "_id": "page.solicitor-details--email.auto_name__5",
+      "_type": "email",
+      "label": "Email address",
+      "name": "auto_name__5"
+    },
+    {
+      "_id": "page.solicitor-details--textarea.auto_name__6",
+      "_type": "textarea",
+      "label": "Postal address",
+      "name": "auto_name__6"
+    },
+    {
+      "_id": "page.solicitor-details--text.auto_name__7",
+      "_type": "text",
+      "label": "Phone number",
+      "name": "auto_name__7"
+    },
+    {
+      "_id": "page.solicitor-details--text.auto_name__8",
+      "_type": "text",
+      "label": "DX number",
+      "name": "auto_name__8"
+    }
+  ],
   "heading": "Solicitor's details (optional)",
   "url": "solicitor-details"
 }

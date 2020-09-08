@@ -9,17 +9,17 @@
         {
           "_id": "page.your-response--radios.auto_name__3--radio.auto_value__1",
           "_type": "radio",
-          "label": "Agree",
+          "label": "Yes, I agree",
           "value": "agree"
         },
         {
           "_id": "page.your-response--radios.auto_name__3--radio.auto_value__2",
           "_type": "radio",
-          "label": "Object",
+          "label": "No, I do not agree",
           "value": "object"
         }
       ],
-      "legend": "Your response",
+      "legend": "Do you agree with this application?",
       "name": "response"
     }
   ],

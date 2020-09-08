@@ -1,12 +1,13 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "**Main page content**\r\n\r\n",
-  "heading": "Respond",
-  "lede": "First paragraph",
+  "body": "**Main page content**\r\n\r\nStarts process online:\r\n\r\n\r\n\r\n* What is COP/MH Act/Deputy\r\n* Deputy supervision\r\n* What you need to do\r\n* How long it will take\r\n* Reassurance if you object\r\n* GOV.UK for info on the process\r\n* Representation for legal advice\r\n\r\n",
+  "heading": "Respond to a property and financial affairs application",
+  "lede": "Use this form to tell the Court of Protection whether you agree or disagree with a property and financial affairs application.",
   "steps": [
     "page.person-details",
     "page.your-response",
+    "page.give-details",
     "page.your-details",
     "page.solicitor-details",
     "page.check-answers",
