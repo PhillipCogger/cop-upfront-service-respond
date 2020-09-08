@@ -33,6 +33,11 @@
       "name": "auto_name__8"
     }
   ],
-  "heading": "Solicitor's details (optional)",
+  "heading": "Solicitor's details",
+  "show": {
+    "identifier": "auto_name__10",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
   "url": "solicitor-details"
 }
