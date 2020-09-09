@@ -9,16 +9,16 @@
       "name": "respondent_full_name"
     },
     {
+      "_id": "page.your-details--textarea.auto_name__2",
+      "_type": "textarea",
+      "label": "Full address",
+      "name": "respondent_postal_address"
+    },
+    {
       "_id": "page.your-details--email.auto_name__5",
       "_type": "email",
       "label": "Email address",
       "name": "respondent_email_address"
-    },
-    {
-      "_id": "page.your-details--textarea.auto_name__2",
-      "_type": "textarea",
-      "label": "Postal address",
-      "name": "respondent_postal_address"
     },
     {
       "_id": "page.your-details--text.auto_name__3",
