@@ -11,9 +11,9 @@
     }
   ],
   "show": {
-    "identifier": "response",
+    "identifier": "agree_disagree",
     "operator": "is",
-    "value": "object"
+    "value": "no"
   },
   "url": "give-details"
 }

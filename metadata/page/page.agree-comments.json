@@ -10,9 +10,9 @@
     }
   ],
   "show": {
-    "identifier": "response",
+    "identifier": "agree_disagree",
     "operator": "is",
-    "value": "agree"
+    "value": "yes"
   },
   "url": "agree-comments"
 }

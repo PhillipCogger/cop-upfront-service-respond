@@ -5,13 +5,13 @@
     {
       "_id": "page.your-response--radios.auto_name__3",
       "_type": "radios",
-      "hint": "You can disagree with the application if you believe it isn't in the best interests of the person.",
+      "hint": "You can disagree with this application if you believe it isn't in the best interests of the person.",
       "items": [
         {
           "_id": "page.your-response--radios.auto_name__3--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "value": "agree"
+          "value": "yes"
         },
         {
           "_id": "page.your-response--radios.auto_name__3--radio.auto_value__2",
@@ -19,14 +19,14 @@
           "conditionalComponent": {
             "_id": "page.your-response--radios.auto_name__3--radio.auto_value__2--content",
             "_type": "content",
-            "html": "By choosing not to agree with this application you may be asked to:\r\n\r\n- take part in proceedings\r\n- pay a hearing fee"
+            "html": "By choosing to disagree with this application, you might be asked to:\r\n\r\n- take part in proceedings\r\n- pay a hearing fee"
           },
           "label": "No",
-          "value": "object"
+          "value": "no"
         }
       ],
       "legend": "Do you agree with this application?",
-      "name": "response"
+      "name": "agree_disagree"
     }
   ],
   "url": "response"
