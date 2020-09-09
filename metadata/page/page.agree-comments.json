@@ -5,8 +5,11 @@
     {
       "_id": "page.agree-comments--textarea.auto_name__9",
       "_type": "textarea",
-      "label": "Do you have any other comments?",
-      "name": "comments"
+      "label": "Do you have any other comments (optional)?",
+      "name": "comments",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "show": {
