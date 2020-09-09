@@ -2,6 +2,6 @@
   "_id": "page.response-sent",
   "_type": "page.confirmation",
   "body": "### What happens next\r\n\r\nIf you agree with the application, you don't need to do anything else.\r\n\r\nIf you disagree with the application, you'll receive information from the court about the next steps.",
-  "heading": "Thank you",
+  "heading": "Response sent",
   "url": "response-sent"
 }

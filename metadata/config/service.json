@@ -2,6 +2,6 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
-  "name": "Agree or disagree with a property and financial affairs application",
+  "name": "Respond to a property and financial affairs application",
   "phaseText": "This is a new service"
 }
