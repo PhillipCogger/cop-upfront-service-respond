@@ -17,6 +17,7 @@
       "name": "person_date_of_birth"
     }
   ],
-  "heading": "Details of the person",
+  "heading": "The person the application is about",
+  "lede": "The person who can't make decisions at the time they need to be made (they 'lack mental capacity').",
   "url": "person-details"
 }
