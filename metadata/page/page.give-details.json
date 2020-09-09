@@ -6,7 +6,7 @@
       "_id": "page.give-details--textarea.auto_name__1",
       "_type": "textarea",
       "hint": "Provide details on why you believe it's not in the best interests of the person the application is about, or why a different person should be their deputy.\r\n\r\nBy choosing not to agree with this application, you may be asked to take part in proceedings, and pay a hearing fee.",
-      "label": "Why you do not agree with this application",
+      "label": "Why you disagree with this application",
       "name": "auto_name__1"
     }
   ],
