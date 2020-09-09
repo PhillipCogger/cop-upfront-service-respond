@@ -6,25 +6,25 @@
       "_id": "page.your-details--text.auto_name__4",
       "_type": "text",
       "label": "Full name",
-      "name": "full_name"
+      "name": "respondent_full_name"
     },
     {
       "_id": "page.your-details--email.auto_name__5",
       "_type": "email",
       "label": "Email address",
-      "name": "email_address"
+      "name": "respondent_email_address"
     },
     {
       "_id": "page.your-details--textarea.auto_name__2",
       "_type": "textarea",
       "label": "Postal address",
-      "name": "auto_name__2"
+      "name": "respondent_postal_address"
     },
     {
       "_id": "page.your-details--text.auto_name__3",
       "_type": "text",
       "label": "Phone number",
-      "name": "auto_name__3"
+      "name": "respondent_phone_number"
     }
   ],
   "heading": "Your details",

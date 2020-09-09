@@ -6,7 +6,7 @@
       "_id": "page.agree-comments--textarea.auto_name__9",
       "_type": "textarea",
       "label": "Do you have any other comments?",
-      "name": "auto_name__9"
+      "name": "comments"
     }
   ],
   "show": {

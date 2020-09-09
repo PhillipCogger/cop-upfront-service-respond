@@ -7,7 +7,7 @@
       "_type": "textarea",
       "hint": "Say why you believe this application isn't in the best interests of the person. By choosing to disagree with this application, you might be asked to take part in proceedings, and pay a hearing fee.",
       "label": "Why you disagree with this application",
-      "name": "auto_name__1"
+      "name": "disagree_reason"
     }
   ],
   "show": {
