@@ -9,21 +9,6 @@
       "name": "solicitor_full_name"
     },
     {
-      "_id": "page.solicitor-details--textarea.auto_name__6",
-      "_type": "textarea",
-      "label": "Full address",
-      "name": "solicitor_address"
-    },
-    {
-      "_id": "page.solicitor-details--text.auto_name__8",
-      "_type": "text",
-      "label": "DX number (optional)",
-      "name": "solicitor_dx",
-      "validation": {
-        "required": false
-      }
-    },
-    {
       "_id": "page.solicitor-details--email.auto_name__5",
       "_type": "email",
       "label": "Email address",
@@ -34,13 +19,29 @@
       "_type": "text",
       "label": "Phone number",
       "name": "solicitor_number"
+    },
+    {
+      "_id": "page.solicitor-details--textarea.auto_name__6",
+      "_type": "textarea",
+      "label": "Full address",
+      "name": "solicitor_address"
+    },
+    {
+      "_id": "page.solicitor-details--text.auto_name__8",
+      "_type": "text",
+      "hint": "You'll find this on correspondence from your solicitor.",
+      "label": "DX number (optional)",
+      "name": "solicitor_dx",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "Solicitor's details",
   "show": {
-    "identifier": "solicitor",
+    "identifier": "auto_name__1",
     "operator": "is",
-    "value": "yes"
+    "value": "auto_value__1"
   },
   "url": "solicitor-details"
 }
