@@ -1,9 +1,9 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "### What to do next\r\n\r\nUse this form to tell the court whether or not you support this application.\r\n\r\nYou should complete this form within 14 days from the day you were told about the application.\r\n\r\nIt usually takes about 5 minutes.\r\n\r\nYou’ll need:\r\n\r\n* the name and date of birth of the person the application is about\r\n* your name and contact details\r\n* your solicitors contact details if you have one",
+  "body": "## Before you start\r\n\r\nTo complete this form, you’ll need:\r\n\r\n* the name and date of birth of the person the application is about\r\n* your solicitors contact details, if you have one\r\n\r\nIt usually takes about 5 minutes.",
   "heading": "Respond to a property and financial affairs application",
-  "lede": "A person you know is applying to the Court of Protection to make property and financial decisions on someone's behalf - to be their deputy.",
+  "lede": "Use this form to tell the Court of Protection whether or not you support a property and financial affairs deputyship application. ",
   "steps": [
     "page.applicant-name",
     "page.person-details",
