@@ -1,0 +1,31 @@
+{
+  "_id": "page.confirmation",
+  "_type": "page.form",
+  "actionType": "confirm",
+  "components": [
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.confirmation--text.auto_name__4",
+      "_type": "text",
+      "label": "Full name",
+      "name": "auto_name__4"
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$fields": true,
+      "_id": "page.confirmation--date.auto_name__5",
+      "_type": "date",
+      "hint": "",
+      "legend": "Date",
+      "name": "auto_name__5"
+    }
+  ],
+  "heading": "Confirmation",
+  "lede": "I confirm that the information supplied in this response is truthful and accurate to the best of my knowledge.",
+  "url": "confirmation"
+}

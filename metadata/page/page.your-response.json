@@ -20,7 +20,7 @@
           "value": "no"
         }
       ],
-      "legend": "Should John Smith manage the property and financial affairs of Jane Doe?",
+      "legend": "Do you think Catherine Dodds should manage the property and financial affairs of Jane Dodds?",
       "name": "agree_disagree"
     }
   ],
