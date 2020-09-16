@@ -1,0 +1,14 @@
+{
+  "_id": "page.applicant-name",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.applicant-name--text.auto_name__2",
+      "_type": "text",
+      "label": "Full name",
+      "name": "auto_name__2"
+    }
+  ],
+  "heading": "The person making the application",
+  "url": "applicant-name"
+}
