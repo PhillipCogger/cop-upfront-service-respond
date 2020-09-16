@@ -1,7 +1,12 @@
 {
   "_id": "page.response-sent",
   "_type": "page.confirmation",
-  "body": "### What happens next\r\n\r\nIf you've agreed with this application, you don't need to do anything else.\r\n\r\nIf you've disagreed with this application, you'll receive information from the court about the next steps.",
+  "body": "We have sent you a confirmation email.\r\n\r\n### What happens next\r\n\r\nIf you've agreed with this application, you don't need to do anything else.\r\n\r\nIf you've disagreed with this application, it will now go to a judge and you'll receive information by post from the court in the next 2-4 weeks about the next steps.",
   "heading": "Response sent",
+  "show": {
+    "identifier": "agree_disagree",
+    "operator": "is",
+    "value": "no"
+  },
   "url": "response-sent"
 }
