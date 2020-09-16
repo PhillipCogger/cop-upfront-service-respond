@@ -29,7 +29,7 @@
     {
       "_id": "page.your-details--radios.auto_name__1",
       "_type": "radios",
-      "hint": "For example if a solicitor is representing you.",
+      "hint": "For example, if a solicitor is representing you",
       "items": [
         {
           "_id": "page.your-details--radios.auto_name__1--radio.auto_value__1",
@@ -44,7 +44,7 @@
           "value": "auto_value__2"
         }
       ],
-      "legend": " Would you like official documentation be sent to a different address?",
+      "legend": " Would you like any documents to be sent to a different address?",
       "name": "auto_name__1"
     }
   ],
