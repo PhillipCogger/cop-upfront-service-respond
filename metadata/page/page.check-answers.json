@@ -2,6 +2,19 @@
   "_id": "page.check-answers",
   "_type": "page.summary",
   "actionType": "custom-1",
+  "components": [
+    {
+      "_id": "page.check-answers--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.check-answers--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "name": "auto_name__3"
+        }
+      ]
+    }
+  ],
   "sendBody": "By sending this response, you confirm that the information supplied is truthful and accurate to the best of your knowledge.",
   "sendHeading": "",
   "url": "check-answers"
