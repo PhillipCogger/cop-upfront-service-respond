@@ -9,12 +9,6 @@
       "name": "respondent_full_name"
     },
     {
-      "_id": "page.your-details--textarea.auto_name__2",
-      "_type": "textarea",
-      "label": "Full address",
-      "name": "respondent_postal_address"
-    },
-    {
       "_id": "page.your-details--email.auto_name__5",
       "_type": "email",
       "label": "Email address",
@@ -25,6 +19,33 @@
       "_type": "text",
       "label": "Phone number",
       "name": "respondent_phone_number"
+    },
+    {
+      "_id": "page.your-details--textarea.auto_name__2",
+      "_type": "textarea",
+      "label": "Full address",
+      "name": "respondent_postal_address"
+    },
+    {
+      "_id": "page.your-details--radios.auto_name__1",
+      "_type": "radios",
+      "hint": "For example if a solicitor is representing you.",
+      "items": [
+        {
+          "_id": "page.your-details--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.your-details--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": " Would you like official documentation be sent to a different address?",
+      "name": "auto_name__1"
     }
   ],
   "heading": "Your details",
