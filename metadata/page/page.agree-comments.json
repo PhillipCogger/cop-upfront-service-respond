@@ -5,10 +5,11 @@
     {
       "_id": "page.agree-comments--textarea.auto_name__9",
       "_type": "textarea",
-      "label": "Do you have any other comments (optional)?",
+      "hint": "Please give details, this information will be reviewed by the court.",
+      "label": "Why do you think this application is in the best interests of Jane Doe?",
       "name": "comments",
       "validation": {
-        "required": false
+        "required": true
       }
     }
   ],

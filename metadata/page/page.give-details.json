@@ -5,8 +5,8 @@
     {
       "_id": "page.give-details--textarea.auto_name__1",
       "_type": "textarea",
-      "hint": "Say why you think this application isn't in the best interests of the person.",
-      "label": "Why do you disagree with this application?",
+      "hint": "Please give details, this information will be reviewed by the court.",
+      "label": "Why do you think this application isn't in the best interests of Jane Doe?",
       "name": "disagree_reason"
     }
   ],
