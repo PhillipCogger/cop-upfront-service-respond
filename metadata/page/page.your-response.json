@@ -20,7 +20,7 @@
           "value": "no"
         }
       ],
-      "legend": "Do you agree with this application?",
+      "legend": "Should John Smith manage the property and financial affairs of Jane Doe?",
       "name": "agree_disagree"
     }
   ],
