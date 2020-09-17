@@ -29,7 +29,7 @@
     {
       "_id": "page.solicitor-details--text.auto_name__8",
       "_type": "text",
-      "hint": "You'll find this on correspondence from your solicitor.",
+      "hint": "You'll find this on documents from your solicitor",
       "label": "DX number (optional)",
       "name": "solicitor_dx",
       "validation": {
