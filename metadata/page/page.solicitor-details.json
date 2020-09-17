@@ -38,7 +38,7 @@
     }
   ],
   "heading": "Solicitor's details",
-  "lede": "We'll only use these details for correspondence.",
+  "lede": "We'll only use these details for sending correspondence.",
   "show": {
     "identifier": "document_address",
     "operator": "is",
