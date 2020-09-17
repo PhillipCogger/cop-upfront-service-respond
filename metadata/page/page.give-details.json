@@ -6,7 +6,7 @@
       "_id": "page.give-details--textarea.auto_name__1",
       "_type": "textarea",
       "hint": "Give as much detail as you can",
-      "label": "Why do you think this application isn't in the best interests of Jane Doe?",
+      "label": "Why do you think Catherine Dodds should not manage the property and financial affairs of Jane Dodds?",
       "name": "disagree_reason"
     }
   ],
