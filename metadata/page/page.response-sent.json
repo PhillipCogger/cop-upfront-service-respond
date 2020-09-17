@@ -1,7 +1,7 @@
 {
   "_id": "page.response-sent",
   "_type": "page.confirmation",
-  "body": "We have sent you a confirmation email.\r\n\r\n### What happens next\r\n\r\nIf you've agreed with this application, you don't need to do anything else.\r\n\r\nIf you've disagreed with this application, it will now go to a judge and you'll receive information by post from the court in the next 2-4 weeks about the next steps.",
+  "body": "We have sent you a confirmation email.\r\n\r\n### What happens next\r\n\r\nIf you support this application, you don't need to do anything else.\r\n\r\nIf you don't support this application, the Court of Protection will contact you by post with information about the next steps. You should receive this information within 2 to 4 weeks.",
   "heading": "Response sent",
   "show": {
     "identifier": "agree_disagree",
