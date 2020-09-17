@@ -5,7 +5,7 @@
     {
       "_id": "page.agree-comments--textarea.auto_name__9",
       "_type": "textarea",
-      "hint": "Please give details, this information will be reviewed by the court.",
+      "hint": "Give as much detail as you can",
       "label": "Why do you think this application is in the best interests of Jane Doe?",
       "name": "comments",
       "validation": {

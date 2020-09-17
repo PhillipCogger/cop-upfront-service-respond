@@ -5,7 +5,7 @@
     {
       "_id": "page.give-details--textarea.auto_name__1",
       "_type": "textarea",
-      "hint": "Please give details, this information will be reviewed by the court.",
+      "hint": "Give as much detail as you can",
       "label": "Why do you think this application isn't in the best interests of Jane Doe?",
       "name": "disagree_reason"
     }
