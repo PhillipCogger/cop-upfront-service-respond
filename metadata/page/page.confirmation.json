@@ -11,7 +11,7 @@
       "_id": "page.confirmation--text.auto_name__4",
       "_type": "text",
       "label": "Full name",
-      "name": "auto_name__4"
+      "name": "confirmation_full_name"
     },
     {
       "$component": true,
@@ -22,7 +22,7 @@
       "_type": "date",
       "hint": "",
       "legend": "Date",
-      "name": "auto_name__5"
+      "name": "confirmation_date"
     }
   ],
   "heading": "Confirmation",
