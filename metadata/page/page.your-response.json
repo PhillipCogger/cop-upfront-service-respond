@@ -16,11 +16,11 @@
         {
           "_id": "page.your-response--radios.auto_name__3--radio.auto_value__2",
           "_type": "radio",
-          "label": "No",
+          "label": "No, it is not in the person's best interests",
           "value": "no"
         }
       ],
-      "legend": "Do you think Catherine Dodds should manage the property and financial affairs of Jane Dodds?",
+      "legend": "Do you think this application is in the best interests of the person?",
       "name": "agree_disagree"
     }
   ],

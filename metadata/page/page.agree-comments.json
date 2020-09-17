@@ -5,8 +5,8 @@
     {
       "_id": "page.agree-comments--textarea.auto_name__9",
       "_type": "textarea",
-      "hint": "Give as much detail as you can",
-      "label": "Why do you think Catherine Dodds should manage the property and financial affairs of Jane Dodds?",
+      "hint": "Give as much detail as you can. The court will review this information.",
+      "label": "Why do you think this application is in the best interests of the person?",
       "name": "comments",
       "validation": {
         "required": true
