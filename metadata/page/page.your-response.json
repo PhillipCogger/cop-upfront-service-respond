@@ -16,7 +16,7 @@
         {
           "_id": "page.your-response--radios.auto_name__3--radio.auto_value__2",
           "_type": "radio",
-          "label": "No, it is not in the person's best interests",
+          "label": "No, it is not in the best interests of the person?",
           "value": "no"
         }
       ],
